@@ -16,7 +16,7 @@ Step 2:
 
 3(V)_run_BLR-VOL.ipynb
 
-> Load 'df_tsa_tca.csv' issued by Step 1
+> / ! \ Use 'df_tsa_tca_NM.csv' issued by Step 1
 
 > Defines model to run normative modelling
 
