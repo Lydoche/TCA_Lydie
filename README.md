@@ -45,7 +45,7 @@ Analyses:
 
 > Perform Binary classification
 
-* Shuffle labels in AN / TD to assess ENIGMA correlation 
+* Shuffle labels in AN / TD to assess ENIGMA correlation : Bootstrap_cor_enigma.ipynb
 
 > Load ENIGMA beta values and 'df_tsa_tca.csv' issued in Step 1
 
